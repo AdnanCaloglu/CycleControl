@@ -1,0 +1,40 @@
+# Maven build output
+/target/
+
+# IDE metadata
+/.idea/
+/.vscode/
+/.settings/
+*.iml
+.classpath
+.project
+
+# Local server/test environments
+/server/
+/plugins/
+/logs/
+/crash-reports/
+/world/
+/world_nether/
+/world_the_end/
+
+# Local secrets and signing material
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+*.keystore
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*~
