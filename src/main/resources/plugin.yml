@@ -1,0 +1,16 @@
+name: CycleControl
+version: '1.1.0'
+main: dev.fezisout.cyclecontrol.CycleControlPlugin
+api-version: '1.21'
+description: Take full control of Minecraft's day-night cycle by making days and nights shorter or longer with a simple command.
+author: fezisout_ on discord
+commands:
+  cyclecontrol:
+    description: Shows or changes the total day-night cycle duration.
+    usage: /cyclecontrol [minutes]
+    aliases: [daycycle]
+    permission: cyclecontrol.admin
+permissions:
+  cyclecontrol.admin:
+    description: Allows changing the day-night cycle duration.
+    default: op
