@@ -1,8 +1,12 @@
 # CycleControl
 
+[![Build](https://github.com/AdnanCaloglu/CycleControl/actions/workflows/build.yml/badge.svg)](https://github.com/AdnanCaloglu/CycleControl/actions/workflows/build.yml)
+
 CycleControl is a lightweight Paper/Spigot plugin for changing the duration of Minecraft's complete day-night cycle. Server administrators can make time pass faster or slower with one command, and the selected duration persists across restarts.
 
 The default configuration uses a 40-minute cycle: approximately 20 minutes of day and 20 minutes of night.
+
+CycleControl is **source-available software**, not open-source software. Its source is public for transparency, review, and approved contributions, while use and redistribution remain governed by the proprietary license.
 
 ## Features
 
@@ -26,7 +30,7 @@ CycleControl is a backend server plugin. It does not run on BungeeCord, Waterfal
 
 ## Installation
 
-1. Download the latest `CycleControl-*.jar` release.
+1. Download `CycleControl-*.jar` from the [latest GitHub release](https://github.com/AdnanCaloglu/CycleControl/releases/latest) or the [CycleControl Modrinth page](https://modrinth.com/plugin/cyclecontrol).
 2. Stop the Minecraft server.
 3. Place the JAR in the server's `plugins` directory.
 4. Start the server.
@@ -97,6 +101,6 @@ Bug reports and focused contributions are welcome. Read [CONTRIBUTING.md](CONTRI
 
 ## License
 
-Copyright (c) 2026 FezIsOut. All rights reserved.
+Copyright (c) 2026 Adnan Kaan Çaloğlu (FezIsOut). All rights reserved.
 
-Personal use of unmodified official binary releases is permitted. Redistribution, modification, resale, commercial use, and derivative works require prior written permission. See [LICENSE](LICENSE) for the complete terms.
+Personal use of unmodified official binary releases is permitted. Limited permission is also granted to fork and modify the repository solely to submit an official GitHub pull request. Redistribution, independent use of modified versions, resale, commercial use, and other derivative works require prior written permission. See [LICENSE](LICENSE) for the complete terms.

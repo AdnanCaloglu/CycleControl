@@ -6,17 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ## Unreleased
 
+No changes yet.
+
+## 1.1.0 - 2026-07-16
+
 ### Added
 
 - Repository documentation and publication metadata.
 - A Git ignore policy for build outputs, local server files, IDE metadata, and common secrets.
 - An All Rights Reserved proprietary license notice.
 - Contribution guidelines covering development, testing, bug reports, and licensing terms.
-
-## 1.1.0 - 2026-07-06
-
-### Added
-
+- GitHub Actions verification for every push and pull request.
+- Links to GitHub releases and the CycleControl Modrinth page.
 - `/cyclecontrol [minutes]` for displaying or changing the complete cycle duration.
 - `/daycycle` as a command alias.
 - Persistent `cycle-minutes` configuration.
@@ -25,6 +26,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Changed
 
+- Standardized the public author and copyright identity as Adnan Kaan Çaloğlu (FezIsOut).
+- Clarified that CycleControl is source-available rather than open-source software.
+- Added limited permission to fork and modify the repository solely for official pull-request contributions.
 - Renamed the plugin from LongDays to CycleControl.
 - Replaced the fixed half-speed clock with a configurable tick accumulator.
 
