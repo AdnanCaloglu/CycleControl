@@ -91,6 +91,10 @@ The compiled plugin will be written to `target/CycleControl-1.1.0.jar`.
 
 Release history is documented in [CHANGELOG.md](CHANGELOG.md).
 
+## Contributing
+
+Bug reports and focused contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) before preparing a pull request, particularly the contribution terms for this All Rights Reserved project.
+
 ## License
 
 Copyright (c) 2026 FezIsOut. All rights reserved.

@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - Repository documentation and publication metadata.
 - A Git ignore policy for build outputs, local server files, IDE metadata, and common secrets.
 - An All Rights Reserved proprietary license notice.
+- Contribution guidelines covering development, testing, bug reports, and licensing terms.
 
 ## 1.1.0 - 2026-07-06
 
