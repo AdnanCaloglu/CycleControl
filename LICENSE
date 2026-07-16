@@ -5,7 +5,13 @@ Copyright (c) 2026 Adnan Kaan Çaloğlu (FezIsOut). All rights reserved.
 The source code and associated files in this repository are made available for
 viewing and review. No permission is granted to copy, modify, distribute,
 sublicense, sell, or create derivative works from this software without prior
-written permission from the copyright holder.
+written permission from the copyright holder, except for the limited
+contribution permission below.
+
+Limited permission is granted to fork and modify this repository solely for
+the purpose of submitting a contribution through an official GitHub pull
+request. This permission does not authorize redistribution, independent use,
+or publication of modified versions.
 
 Personal use of unmodified official binary releases is permitted. Redistribution,
 modification, resale, commercial use, and distribution of derivative works are
